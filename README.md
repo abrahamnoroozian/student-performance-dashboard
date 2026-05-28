@@ -1,4 +1,4 @@
 # Student Performance Dashboard
 
 ## 📊 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard 2.png)
